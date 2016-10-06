@@ -1,2 +1,4 @@
 # stalag-escape
 C++ Text based adventure game: Stalag Escape
+
+During WWII, you are a British airman, felled over enemy airspace, and held as a prisoner of war behind enemy lines at a Stalag (German POW) camp1. As you move through the camp, you collect items to help you escape, learn a few German phrases, and find different potential escape routes, but there is only one way to succeed. If you take the wrong escape route or are ill-prepared, you will be captured and the game is over. If you take too long in your preparations, the guards will become suspicious and the game is over. You have a rucksack that can hold 4 items. You start the game with a pack of cigarettes in your rucksack. You have 24 hours to escape before the Soviet Army arrives to “liberate” you and send you on a forced wintertime march to another camp.
